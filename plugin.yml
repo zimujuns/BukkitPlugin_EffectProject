@@ -1,0 +1,5 @@
+name: EffectPro
+main: com.ZiMuJun.EffectProject.Main
+version: 0.0.1-SNAPSHOT
+commands:
+  ZM:

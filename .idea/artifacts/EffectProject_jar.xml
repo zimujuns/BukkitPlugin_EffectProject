@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EffectProject:jar">
+    <output-path>D:/Minecraft/Spigot-1.12.2/plugins</output-path>
+    <root id="archive" name="EffectProject.jar">
+      <element id="module-output" name="EffectProject" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
